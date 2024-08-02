@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../public/images/background.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.titre-pcp {
+  font-size: 3rem;
+  text-align: center;
+  color:rgb(76, 119, 93);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  
+}
+
+p{
+  font-family: "Inter", sans-serif;
+}
